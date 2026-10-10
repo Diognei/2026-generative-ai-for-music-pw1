@@ -1,10 +1,10 @@
-# AI Usage
+### AI Usage
 
 AI tools were used to assist in generating the codes and writing the report. The conversations are in the ai-chats/ folder.
 
-# Code
+### Code
 
-## How to Run
+#### How to Run
 
 In the terminal, navigate to the project directory and start the Docker container:
 
@@ -19,6 +19,6 @@ Inside the container, run one of the following commands:
 
 The results are saved in `outputs/`.
 
-# Report
+### Report
 
 The report is in the directory report/
