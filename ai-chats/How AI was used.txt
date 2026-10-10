@@ -1,0 +1,9 @@
+How each AI tool was used?
+
+1. First, I came up with an idea for defining the genotype and consulted ChatGPT to help generate the initial Python code, including the drum and main chord tracks.
+2. Next, I worked with GitHub Copilot in VS Code to add more tracks and new patterns to the genotype.
+3. Then, I worked with Codex in VS Code to add the melody track.
+4. Finally, I used ChatGPT to generate the report text, step by step, always reviewing it myself before publication.
+
+Note: Due to message quota limitations and the possibility of conversations being removed in the future, I chose to export the chatgpt conversations as PDFs rather than sharing links, as these free LLMs often cut off features without prior notice.
+
