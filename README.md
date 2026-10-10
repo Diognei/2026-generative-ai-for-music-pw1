@@ -1,3 +1,7 @@
+**# Report**
+
+The report is in the directory report/
+
 **# How to Run**
 
 In the terminal, navigate to the project directory and start the Docker container:
