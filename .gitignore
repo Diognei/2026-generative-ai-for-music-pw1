@@ -1,1 +1,2 @@
-outputs/
+outputs/*.wav
+outputs/*_plus.mid
