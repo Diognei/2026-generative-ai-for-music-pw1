@@ -1,14 +1,14 @@
-# Como executar
+**# How to Run**
 
-No terminal, na pasta do projeto, inicie o container Docker:
+In the terminal, navigate to the project directory and start the Docker container:
 
 ```bash
 ./start_container.sh
 ```
 
-Dentro do container, execute um dos comandos:
+Inside the container, run one of the following commands:
 
-- `./run_multi.sh` para reproduzir os experimentos do paper.
-- `./run.sh` para executar uma única evolução, com os parâmetros desejados no script.
+- `./run_multi.sh` to reproduce the experiments described in the paper.
+- `./run.sh` to run a single evolution with the desired parameters configured in the script.
 
-Os resultados são salvos em `outputs/`.
+The results are saved in `outputs/`.
