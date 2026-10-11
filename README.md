@@ -2,6 +2,12 @@
 
 #### How to Run
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Diognei/2026-generative-ai-for-music-pw1.git
+```
+
 In the terminal, navigate to the project directory and start the Docker container:
 
 ```bash
