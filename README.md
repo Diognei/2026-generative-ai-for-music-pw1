@@ -17,10 +17,10 @@ The results are saved in `outputs/`.
 
 ### Report
 
-The report is in the directory report/
+The report is in the directory `report/`.
 
 ### AI Usage
 
 AI tools were used to assist in generating the codes and writing the report.
 
-The conversations with AI are in the ai-chats/ folder.
+The conversations with AI are in the `ai-chats/` folder.
