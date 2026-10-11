@@ -5,5 +5,5 @@ How each AI tool was used?
 3. Then, I worked with Codex in VS Code to add the melody track.
 4. Finally, I used ChatGPT to generate the report text, step by step, always reviewing it myself before publication.
 
-Note: Due to message quota limitations and the possibility of conversations being removed in the future, I chose to export the chatgpt conversations as PDFs rather than sharing links, as these free LLMs often cut off features without prior notice.
+Note: Due to AI usage quota limitations and the possibility of conversations being removed in the future, I chose to export the chatgpt conversations as PDFs rather than sharing links, as these free LLMs often cut off features without prior justification.
 
