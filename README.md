@@ -15,12 +15,16 @@ Inside the container, run one of the following commands:
 
 The results are saved in `outputs/`.
 
-### Report
+### ISMIR Paper
 
-The report is in the directory `report/`.
+The ISMIR paper is in the directory `paper/`.
+
+### Generated Songs
+
+The generated songs is in the directory `output/`. 
 
 ### AI Usage
 
 AI tools were used to assist in generating the codes and writing the report.
 
-The conversations with AI are in the `ai-chats/` folder.
+The conversations with AI are in the directory `ai-chats/`.
