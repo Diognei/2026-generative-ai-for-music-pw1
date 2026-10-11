@@ -21,7 +21,7 @@ The ISMIR paper is in the directory `paper/`.
 
 ### Generated Songs
 
-The generated songs is in the directory `output/`. 
+The generated songs is in the directory `outputs/`. 
 
 ### AI Usage
 
