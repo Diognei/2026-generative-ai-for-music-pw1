@@ -39,7 +39,7 @@ RUN apt-get update \
 WORKDIR /app
 
 # ------------------------------------------------------------------------------
-# Bibliotecas Python sugeridas pelo professor
+# Bibliotecas Python sugeridas no enunciado
 # ------------------------------------------------------------------------------
 RUN pip install --no-cache-dir --upgrade pip \
     && pip install --no-cache-dir \
